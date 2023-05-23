@@ -12,14 +12,14 @@ MovieMate is a user-friendly, modern, and responsive web application built using
 
 ## Production Deployment
 
-Experience MovieMate in a production environment at: [https://www.moviemate.com](https://www.moviemate.com)
+Experience MovieMate in a production environment at: [https://movie-mate-theta.vercel.app/](https://movie-mate-theta.vercel.app/)
 
 ## Installation
 
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/moviemate.git
+git clone https://github.com/itsamit108/movie-mate.git
 ```
 
 2. Navigate to the project directory:
