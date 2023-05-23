@@ -80,8 +80,5 @@ MovieMate is released under the [MIT License](https://opensource.org/licenses/MI
 ## Acknowledgments
 
 - The MovieMate team would like to express gratitude to the open-source community for providing valuable resources and libraries that helped in building this project.
-- Thanks to the creators and maintainers of Next.js, MongoDB, RapidAPI, and all the other technologies used in this project
-
-.
-
+- Thanks to the creators and maintainers of Next.js, MongoDB, RapidAPI, and all the other technologies used in this project.
 ---
