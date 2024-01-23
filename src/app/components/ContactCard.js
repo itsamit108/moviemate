@@ -1,6 +1,6 @@
-import  styles from "@/app/contact/contact.module.css"
-import { MdEmail, MdVoiceChat, MdForum } from "react-icons/md";
+import styles from "@/app/contact/contact.module.css";
 import Link from "next/link";
+import { MdEmail, MdForum, MdVoiceChat } from "react-icons/md";
 
 const ContactCard = () => {
     return (

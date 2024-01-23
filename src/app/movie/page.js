@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from "@/app/styles/common.module.css";
 import MovieCard from '../components/MovieCard';
 
@@ -17,20 +16,18 @@ const Page = async () => {
     const main_data = data.titles;
 
     return (
-        <>
-            <section className={styles.movieSection}>
-                <div className={styles.container}>
-                    <h1 className={styles.title}>Discover the World of Entertainment</h1>
-                    <div className={styles.card_section}>
-                        {
-                            main_data.map((currElem) => {
-                                return <MovieCard key={currElem.id} {...currElem} />;
-                            })
-                        }
-                    </div>
+        <section className={styles.movieSection}>
+            <div className={styles.container}>
+                <h1 className={styles.title}>Discover the World of Entertainment</h1>
+                <div className={styles.card_section}>
+                    {
+                        main_data.map((currElem) => {
+                            return <MovieCard key={currElem.id} {...currElem} />;
+                        })
+                    }
                 </div>
-            </section>
-        </>
+            </div>
+        </section>
     );
 };
 

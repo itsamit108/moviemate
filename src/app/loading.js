@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from "@/app/styles/common.module.css";
 
 const loading = () => {

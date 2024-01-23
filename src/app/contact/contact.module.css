@@ -1,7 +1,3 @@
-.section {
-    /*background-color: red;*/
-}
-
 .container {
     padding: 0 6rem;
     margin: 0 auto;
@@ -53,9 +49,6 @@
     font-size: 4.2rem;
     color: #e50914;
 }
-
-
-/*for the main contact two section*/
 
 .contact_section {
     margin: 6rem auto;

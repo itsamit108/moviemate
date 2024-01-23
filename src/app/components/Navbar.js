@@ -1,9 +1,9 @@
 'use client';
 
 import styles from "@/app/styles/navbar.module.css";
-import { CgCloseR, CgMenu } from "react-icons/cg";
 import Link from "next/link";
 import { useState } from "react";
+import { CgCloseR, CgMenu } from "react-icons/cg";
 
 const Navbar = () => {
     const [openMenu, setOpenMenu] = useState(false);
@@ -35,7 +35,6 @@ const Navbar = () => {
                         </li>
                     </ul>
 
-                    {/* //nav icon */}
                     <div className={styles['mobile-navbar-btn']}>
                         <CgMenu
                             name="menu-outline"
