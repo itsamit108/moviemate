@@ -19,13 +19,13 @@ Experience MovieMate in a production environment at: [https://movie-mate-theta.v
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/itsamit108/movie-mate.git
+git clone https://github.com/itsamit108/moviemate.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd movie-mate
+cd moviemate
 ```
 
 3. Install the dependencies:
